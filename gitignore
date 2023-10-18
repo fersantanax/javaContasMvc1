@@ -1,0 +1,51 @@
+# Arquivos de compilação
+target/
+
+# Arquivos de log
+*.log
+
+# Diretórios de build
+bin/
+build/
+out/
+.idea/
+
+# Arquivos gerados pelo Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos gerados pelo IntelliJ
+.idea/
+
+# Arquivos gerados pelo Maven
+mvnw
+mvnw.cmd
+.mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+m2e
+checkstyle-cachefile
+*.lastUpdated
+release.properties
+/hs_err_pid*
+
+# Arquivos de configuração específicos do sistema
+application.properties
+application.yml
+application-dev.properties
+application-prod.properties
+application-test.properties
+
+# Cache de IDEs
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de histórico de sessão
+.history/
